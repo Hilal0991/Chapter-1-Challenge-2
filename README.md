@@ -3,7 +3,9 @@ How It Works
 Step-by-step:
 
 1.Initialize Tickets
+
 A list of predefined ticket strings is stored in an array.
+
 
 2.Process Each Ticket
 For each ticket:
@@ -16,11 +18,14 @@ For each ticket:
 
 -Print the result for that ticket.
 
+
+
 3.Determine Winner
 
 Track the ticket with the highest digit average.
 
 Print the winning ticket and its average.
+
 
 
 🔧 Key Concepts Used
@@ -35,10 +40,12 @@ Print the winning ticket and its average.
 
 -Tracking max values using conditionals
 
+
+
 🛠 Possible Improvements
 
-Round average to 2 decimal places for cleaner output.
+-Round average to 2 decimal places for cleaner output.
 
-Accept ticket inputs from the user instead of hardcoding.
+-Accept ticket inputs from the user instead of hardcoding.
 
-Validate format of ticket numbers.
+-Validate format of ticket numbers.
