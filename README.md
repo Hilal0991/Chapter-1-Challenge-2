@@ -2,37 +2,38 @@ How It Works
 
 Step-by-step:
 
-Initialize Tickets
+1.Initialize Tickets
 A list of predefined ticket strings is stored in an array.
 
-Process Each Ticket
+2.Process Each Ticket
 For each ticket:
 
-Remove dashes to form a single string of digits.
+-Remove dashes to form a single string of digits.
 
-Convert each character to an integer.
+-Convert each character to an integer.
 
-Calculate the sum and average of the digits.
+-Calculate the sum and average of the digits.
 
-Print the result for that ticket.
+-Print the result for that ticket.
 
-Determine Winner
+3.Determine Winner
 
 Track the ticket with the highest digit average.
 
 Print the winning ticket and its average.
 
+
 🔧 Key Concepts Used
 
-Arrays (String[], int[])
+-Arrays (String[], int[])
 
-String manipulation (replace, toCharArray)
+-String manipulation (replace, toCharArray)
 
-Character-to-integer conversion
+-Character-to-integer conversion
 
-Looping (for-each, for loops)
+-Looping (for-each, for loops)
 
-Tracking max values using conditionals
+-Tracking max values using conditionals
 
 🛠 Possible Improvements
 
